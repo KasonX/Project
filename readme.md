@@ -4,4 +4,4 @@
 
 main     - A - B
                |
-branch1        C  
+branch1        C  - D
